@@ -1,0 +1,6 @@
+{
+  "name": "Armenian-Spanish Past Tense 3D Sports Championship",
+  "description": "An interactive 3D sports game competition for two players, translating Armenian past-tense verbs to Spanish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
